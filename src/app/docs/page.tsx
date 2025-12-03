@@ -18,7 +18,7 @@ export default function DocsPage() {
           <div>
             <h2 className="text-2xl font-semibold mb-2">📌 Base URL</h2>
             <pre className="bg-black text-white p-4 rounded-lg">
-http://localhost:3000
+https://image-upload-fullstack.vercel.app
             </pre>
           </div>
 
@@ -99,7 +99,7 @@ GET /files/:filename
 
             <h3 className="text-xl font-semibold mt-4 mb-1">Exemplo:</h3>
             <pre className="bg-black text-white p-4 rounded-lg">
-http://localhost:3000/files/uuid-file.png
+https://image-upload-fullstack.vercel.app/files/uuid-file.png
             </pre>
 
             <p className="mt-3">
