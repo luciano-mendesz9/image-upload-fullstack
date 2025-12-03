@@ -12,7 +12,7 @@ export default function Navbar() {
                 </div>
             </div>
 
-            <a href="#" target="_blank" className="hover:underline cursor-pointer flex items-center gap-3"><SquareDashedBottomCodeIcon size={30} /> <span className="md:flex hidden">Documentação - API</span></a>
+            <a href="/docs" target="_blank" className="hover:underline cursor-pointer flex items-center gap-3"><SquareDashedBottomCodeIcon size={30} /> <span className="md:flex hidden">Documentação - API</span></a>
 
         </nav>
     )
